@@ -27,6 +27,7 @@ body{
 .flex-container {
     background: linear-gradient(to bottom, #631E6F,#210D24);
     margin: 19px;
+    padding: 12px;
     width: 500;
     box-shadow:  1px 3px 8px 1px rgba(0,0,0,0.2);
     border-radius: 5px;
